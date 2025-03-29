@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(31, 6, 6);
+}
+
+
+
+.bg-opacity-75 {
+    --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-50 {
+    --bs-bg-opacity: .5;
+}
+
+.bg-opacity-25 {
+    --bs-bg-opacity: 0.25;
+}
+
+input[type=text]:focus {
+    outline: none;
+    border: none;
+}
